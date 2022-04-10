@@ -1,6 +1,6 @@
 '''PROJECT DESCRIPTION
 
-In this project, the five motivational lines which we wanna speak to ourself every morning is being displayed and these lines were given by Dr.A.P.J Abdul Kalam.With
+In this project, the five motivational lines which we wanna speak to ourself every morning is being displayed and these were the lines of Dr.A.P.J Abdul Kalam. With
 the help of some basic concepts of tkinter and labels I have done this task.'''
 
 from tkinter import *
